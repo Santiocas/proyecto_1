@@ -1,0 +1,22 @@
+{
+    "image1": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAP//DwAAAAD/VVX1DwAA8FVVVVX1AABfVVVVVVUPAF/1VVVVVQ/wVVVVVVVV9fBVVVVVVVX18FVVVVVVVfXwVVVVX1VV9fBVVfXwVVX18FVf9fBVVfUAX1UPAF9VDwBfVQ8AX1UPAPD1AADw9QAAAA8AAAAPAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "pakuman"
+    },
+    "image2": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAACIiIiIAACAiIiIiAgAAIiIiIiIAACAiESEiIgIAIBIRESIiIgAiEoEYIiIiACIigSgiIgAAIiIiIiIiAAAiIiIiIiIiACAiESEiIiIAIBIRESIiAgAAEoEYIiIAAAAggSgiIgIAAAAAIiIiIgAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "enemigo de pakuman"
+    },
+    "image3": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAIiIiIgAAICIiIiBCAAAiIiIGIgAAICIiIgYiAgAgIgYgYiBiACIiBiBiIGIAIiIiIgYiAAAiIiIiBiIAACIiBiBiIGIAICIGIGIgYgAgIiIiBiICAAAiIiIGIgAAACAiIiIgQgAAAAAiIiIiAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "comida de pakuman"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
